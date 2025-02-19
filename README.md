@@ -6,7 +6,7 @@ Hometech is a hands-on PHP project designed to help learners understand the fund
 ## Features  
 - Basic PHP syntax and structure  
 - Form handling and validation  
-- Database connectivity using MySQL  
+- Database connectivity using PhpMyAdmin
 - CRUD (Create, Read, Update, Delete) operations  
 - Session and cookie management  
 
