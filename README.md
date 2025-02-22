@@ -21,3 +21,8 @@ Hometech is a hands-on PHP project designed to help learners understand the fund
    ```sh
    git clone https://github.com/yourusername/hometech.git
    cd hometech
+
+
+HTML , CSS AND PHP FILES ADDED
+
+YOU NEED TO INSTALL XAMPP FOR YOUR MACHINE TO RUN THIS PROJECT 
